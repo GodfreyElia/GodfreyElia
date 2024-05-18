@@ -75,7 +75,9 @@ Click to view read
 My responsibilities varied in this role, however, my day to day deliverables included:
 
 •	Checking that premium is being accurately realised and updating monthly premium records;
+
 •	Streamlining R codes used to pre-process data so that the run under 1 second per file;
+
 •	Cleaning and reformating data used in premium pricing models using R and Excel.
 
 </details>
@@ -90,7 +92,9 @@ Click to view read
 #### Role: Research Assistant intern (Private Equity and Global Equity Divisions)
 
 •	Critically evaluated the global applied materials market, particularly focusing on Silicon Carbide to spot capital cycles;
+
 •	Performed in-depth commercial analyses of several private Healthcare IT systems companies;
+
 •	Shadowed the deal desk and learned about Terminal and equities trading.
 
 </details>
@@ -105,7 +109,9 @@ Click to view read
 #### Role: Business and Marketing Data Analyst
   
 •	Cleaned and analyzed raw activations data and analyzed the daily performance of vendors to determine their pay;
+
 •	Used multiple-regression models on R to provide insights into the human and natural factors that affected vendor sales;
+
 •	Conducted internal research to understand the impact and utilisation levels of the company’s new ERP system.
 
 </details>
