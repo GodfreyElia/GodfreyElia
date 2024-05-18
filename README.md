@@ -120,6 +120,8 @@ Click to view read
 <h2 align="left">DATA TOOLS</h2>
 
 <div align="left">
+  <img src="https://github.com/GodfreyElia/GodfreyElia/blob/main/Profile_items/hd-microsoft-excel-logo-transparent-png-701751694777434h7pkvogbjk.png" height="40" alt="msexcel logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://github.com/GodfreyElia/GodfreyElia/blob/main/Profile_items/MATLAB-Symbol.jpg" height="40" alt="matlab logo"  />
