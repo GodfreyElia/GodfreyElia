@@ -64,7 +64,7 @@ My day job is to verify the truthfulness of financial and non-financial disclosu
 
 </details>
 
-### Summer Analyst - Gen Re, London Office (Jul 2023 - Sep 2023)
+### Actuarial Technical Analyst - Gen Re, London Office (Jul 2023 - Sep 2023)
 
 <details>
 <summary>
@@ -82,7 +82,7 @@ My responsibilities varied in this role, however, my day to day deliverables inc
 
 </details>
 
-### Summer Analyst - Generation Investment Management, London Office (May 2023 - Jul 2023)
+### Private Equity and Global Equity Summer Analyst - Generation Investment Management, London Office (May 2023 - Jul 2023)
 
 <details>
 <summary>
@@ -99,7 +99,7 @@ Click to view read
 
 </details>
 
-### Summer Analyst - BTL Africa Limited, ACCRA - Ghana (Aug 2022 - Sep, 2022)
+### Business and Marketing Data Analyst - BTL Africa Limited, ACCRA - Ghana (Aug 2022 - Sep, 2022)
 
 <details>
 <summary>
