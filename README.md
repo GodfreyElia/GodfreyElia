@@ -47,26 +47,66 @@ Click to view projects
 </details>
 
 
-<h2 align="left"> EXPERIENCE </h2>
+<h2 align="left"> WORK EXPERIENCE </h2>
 
-### Big Data Big Data Institute - University Of Oxford
+### Audit Trainee - BDO UK LLP, London Office
 
 <details>
 <summary>
 Click to view read
 </summary>
 
-#### Role: Research Assistant - Internship
+#### Role: Business assurance associate
+
+My day job is to verify the truthfulness of financial and non-financial disclosures made by companies to their stakeholders
+
+• ACA Level 7 with ICAEW Underway -  all certificate level exams completed on first attempt.
+
+</details>
+
+### Summer Analyst - Gen Re, London Office (Jul 2023 - Sep 2023)
+
+<details>
+<summary>
+Click to view read
+</summary>
+
+#### Role: Actuarial Technical Analyst
+My responsibilities varied in this role, however, my day to day deliverables included:
+
+•	Checking that premium is being accurately realised and updating monthly premium records;
+•	Streamlining R codes used to pre-process data so that the run under 1 second per file;
+•	Cleaning and reformating data used in premium pricing models using R and Excel.
+
+</details>
+
+### Summer Analyst - Generation Investment Management, London Office (May 2023 - Jul 2023)
+
+<details>
+<summary>
+Click to view read
+</summary>
+
+#### Role: Research Assistant intern (Private Equity and Global Equity Divisions)
+
+•	Critically evaluated the global applied materials market, particularly focusing on Silicon Carbide to spot capital cycles;
+•	Performed in-depth commercial analyses of several private Healthcare IT systems companies;
+•	Shadowed the deal desk and learned about Terminal and equities trading.
+
+</details>
+
+### Summer Analyst - BTL Africa Limited, ACCRA - Ghana (Aug 2022 - Sep, 2022)
+
+<details>
+<summary>
+Click to view read
+</summary>
+
+#### Role: Business and Marketing Data Analyst
   
-Worked closely with Chami Group, a team led by Goylette Chami (MPhil PhD Associate Professor), to conduct in-depth research on Schistosomiasis and its impact in Uganda. The project included assessing the accessibility of health-carefacilities. R programming language was used to transform raw data into 6 insightful visualisations, including geospatial maps highlighting the locations of health centers and drug stores. Applied geospatial data to develop 4 insightful chloropleth maps, showcasing population density and the accessibility of health centers. Presented findings to 8 fellow researchers. Successfully managed tasks and deadlines, actively participated in progress meetings to ensure effective communication and collaboration.
-
-To conduct my analysis I utilised data provided by Chami group & by sourcing data from the Ministry of Health - Republic of Uganda.
-
-• Examined healthcare facility availability for the Ugandan population ,focusing on 3 municipalities: Mayuge, Buliisa,and Pakwach.
-
-• Explored healthcare preferences, uncovering that across surveyed areas, 64% of establishments were drug stores, while 36% were health facilities.
-
-• Wrote a comprehensive report discussing the epidemiology of the disease and quantified findings, contributing to the broader understanding of healthcare dynamics in the region.
+•	Cleaned and analyzed raw activations data and analyzed the daily performance of vendors to determine their pay;
+•	Used multiple-regression models on R to provide insights into the human and natural factors that affected vendor sales;
+•	Conducted internal research to understand the impact and utilisation levels of the company’s new ERP system.
 
 </details>
 
