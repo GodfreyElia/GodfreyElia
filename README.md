@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" width="100%" src="[https://github.com/TendaiPhikiso/TendaiPhikiso/blob/main/Folder/Banner%20(2).png](https://github.com/GodfreyElia/GodfreyElia/blob/main/Profile_items/Profile.png)"  />
+  <img height="200" width="100%" src="https://github.com/GodfreyElia/GodfreyElia/blob/main/Profile_items/Profile.png"  />
 </div>
 
 ###
