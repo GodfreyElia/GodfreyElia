@@ -23,6 +23,12 @@ Click to view projects
 </summary>
   
 * [Prediction of Bankruptcy Using Machine Learning](https://github.com/GodfreyElia/bankruptcy_prediction_with_rawdata)
+
+    * Bankruptcy Prediction in Times of Crises
+ 
+    * Best Descriptors for Predicting Bankruptcy
+ 
+    * Financial Ratio Data vs Non-transformed Data
 </details>
 
 ### Economics
