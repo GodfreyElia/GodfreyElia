@@ -24,7 +24,7 @@ Click to view projects
   
 * [Prediction of Bankruptcy Using Machine Learning](https://github.com/GodfreyElia/bankruptcy_prediction_with_rawdata)
 
-    * Bankruptcy Prediction in Times of Crises
+    * [Bankruptcy Prediction in Times of Crises](https://github.com/GodfreyElia/Modeling-Crises/blob/main/README.md)
  
     * Best Descriptors for Predicting Bankruptcy
  
