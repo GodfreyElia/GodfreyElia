@@ -26,7 +26,7 @@ Click to view projects
 
     * [Bankruptcy Prediction in Times of Crises](https://github.com/GodfreyElia/Modeling-Crises/blob/main/README.md)
  
-    * Best Descriptors for Predicting Bankruptcy
+    * [Best Descriptors for Predicting Bankruptcy](https://github.com/GodfreyElia/Best-Bankruptcy-Predictors)
  
     * Financial Ratio Data vs Non-transformed Data
 </details>
