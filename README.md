@@ -28,7 +28,7 @@ Click to view projects
  
     * [Best Descriptors for Predicting Bankruptcy](https://github.com/GodfreyElia/Best-Bankruptcy-Predictors)
  
-    * Financial Ratio Data vs Non-transformed Data
+    * [Financial Ratio Data vs Non-transformed Data](https://github.com/GodfreyElia/Ratio-Data_V_Crude-Financaial-Data)
 </details>
 
 ### Economics
