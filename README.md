@@ -37,6 +37,8 @@ Click to view projects
 <summary>
 Click to view projects
 </summary>
+
+* [Time-series Econometrics: Investigating Global Commodity Prices - Copper and Nickel](https://github.com/GodfreyElia/Time-Series-Econometrics1)
   
 * [Econometric Modelling of Cross-sectional Data](https://github.com/GodfreyElia/Economics_Crime_Worry_Prediction)
 </details>
