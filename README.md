@@ -29,6 +29,8 @@ Click to view projects
     * [Best Descriptors for Predicting Bankruptcy](https://github.com/GodfreyElia/Best-Bankruptcy-Predictors)
  
     * [Financial Ratio Data vs Non-transformed Data](https://github.com/GodfreyElia/Ratio-Data_V_Crude-Financaial-Data)
+ 
+* [Crypto Intelligence Dashboard](https://github.com/GodfreyElia/Crypto_Intelligence_dashboard)
 </details>
 
 ### Economics
