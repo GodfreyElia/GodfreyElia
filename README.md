@@ -31,7 +31,7 @@ Click to view projects
     * [Financial Ratio Data vs Non-transformed Data](https://github.com/GodfreyElia/Ratio-Data_V_Crude-Financaial-Data)
  
 * [Crypto Intelligence Dashboard](https://github.com/GodfreyElia/Crypto_Intelligence_dashboard)
-* [Benchmarking Numerical Methods for Options Pricing](https://github.com/GodfreyElia/Option-pricing-_-numerical-methods)
+* [Benchmarking Numerical Methods for Option Pricing](https://github.com/GodfreyElia/Option-pricing-_-numerical-methods)
 </details>
 
 ### Economics
