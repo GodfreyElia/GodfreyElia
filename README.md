@@ -59,7 +59,7 @@ Click to view projects
 </details>
 
 
-<h3 align="left"> Work Experience </h3>
+<h2 align="left"> 🔧 Work Experience </h2>
 
 #### Audit Trainee - BDO UK LLP, London Office
 
@@ -129,7 +129,7 @@ Click to view read
 </details>
 
 ####
-<h2 align="left">DATA TOOLS</h2>
+<h2 align="left"> 🛠️ Data Tools </h2>
 
 <div align="left">
   <img src="https://github.com/GodfreyElia/GodfreyElia/blob/main/Profile_items/hd-microsoft-excel-logo-transparent-png-701751694777434h7pkvogbjk.png" height="40" alt="msexcel logo"  />
@@ -150,7 +150,7 @@ Click to view read
 
 ####
 
-<h2 align="left">CONTACT DETAILS</h2>
+<h2 align="left"> 🔗 Contact Details </h2>
 
 ####
 
