@@ -59,7 +59,7 @@ Click to view projects
 </details>
 
 
-<h2 align="left"> 🔧 Work Experience </h2>
+<h2 align="left"> 💼 Work Experience </h2>
 
 #### Audit Trainee - BDO UK LLP, London Office
 
