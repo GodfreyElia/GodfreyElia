@@ -70,9 +70,9 @@ Click to view read
 
 ##### Role: Business assurance associate
 
-My day job is to verify the truthfulness of financial and non-financial disclosures made by companies to their stakeholders
+My day job is to verify the truthfulness of financial and non-financial disclosures made by companies to their stakeholders in financial statements.
 
-• ACA Level 7 with ICAEW Underway -  all certificate level exams completed on first attempt.
+• ACA Level 7 (ICAEW)
 
 </details>
 
