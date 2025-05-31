@@ -61,14 +61,14 @@ Click to view projects
 
 <h2 align="left"> WORK EXPERIENCE </h2>
 
-### Audit Trainee - BDO UK LLP, London Office
+#### Audit Trainee - BDO UK LLP, London Office
 
 <details>
 <summary>
 Click to view read
 </summary>
 
-#### Role: Business assurance associate
+##### Role: Business assurance associate
 
 My day job is to verify the truthfulness of financial and non-financial disclosures made by companies to their stakeholders
 
@@ -76,14 +76,14 @@ My day job is to verify the truthfulness of financial and non-financial disclosu
 
 </details>
 
-### Actuarial Technical Analyst - Gen Re, London Office (Jul 2023 - Sep 2023)
+#### Actuarial Technical Analyst - Gen Re, London Office (Jul 2023 - Sep 2023)
 
 <details>
 <summary>
 Click to view read
 </summary>
 
-#### Role: Actuarial Technical Analyst
+##### Role: Actuarial Technical Analyst
 My responsibilities varied in this role, however, my day to day deliverables included:
 
 •	Checking that premium is being accurately realised and updating monthly premium records;
@@ -94,14 +94,14 @@ My responsibilities varied in this role, however, my day to day deliverables inc
 
 </details>
 
-### Private Equity and Global Equity Summer Analyst - Generation Investment Management, London Office (May 2023 - Jul 2023)
+#### Private Equity and Global Equity Summer Analyst - Generation Investment Management, London Office (May 2023 - Jul 2023)
 
 <details>
 <summary>
 Click to view read
 </summary>
 
-#### Role: Research Assistant intern (Private Equity and Global Equity Divisions)
+##### Role: Research Assistant intern (Private Equity and Global Equity Divisions)
 
 •	Critically evaluated the global applied materials market, particularly focusing on Silicon Carbide to spot capital cycles;
 
@@ -111,14 +111,14 @@ Click to view read
 
 </details>
 
-### Business and Marketing Data Analyst - BTL Africa Limited, ACCRA - Ghana (Aug 2022 - Sep, 2022)
+#### Business and Marketing Data Analyst - BTL Africa Limited, ACCRA - Ghana (Aug 2022 - Sep, 2022)
 
 <details>
 <summary>
 Click to view read
 </summary>
 
-#### Role: Business and Marketing Data Analyst
+##### Role: Business and Marketing Data Analyst
   
 •	Cleaned and analyzed raw activations data and analyzed the daily performance of vendors to determine their pay;
 
@@ -128,7 +128,7 @@ Click to view read
 
 </details>
 
-###
+####
 <h2 align="left">DATA TOOLS</h2>
 
 <div align="left">
@@ -148,11 +148,11 @@ Click to view read
   <img width="12" />
 </div>
 
-###
+####
 
 <h2 align="left">CONTACT DETAILS</h2>
 
-###
+####
 
 <div align="left">
 <!--   <a href="gonkolokosa@gmail.com" target="_blank">
@@ -163,10 +163,10 @@ Click to view read
   </a>
 </div>
 
-###
+####
 
 <br clear="both">
 <!--
 <img src="https://raw.githubusercontent.com/TendaiPhikiso/TendaiPhikiso/output/snake.svg" alt="Snake animation" />
 >
-###
+####
