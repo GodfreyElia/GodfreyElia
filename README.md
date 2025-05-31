@@ -32,6 +32,7 @@ Click to view projects
  
 * [Crypto Intelligence Dashboard](https://github.com/GodfreyElia/Crypto_Intelligence_dashboard)
 * [Benchmarking Numerical Methods for Option Pricing](https://github.com/GodfreyElia/Option-pricing-_-numerical-methods)
+* [Portfolio Theory: Mean-Variance Optimisation](https://github.com/GodfreyElia/Portfolio_Theory)
 </details>
 
 ### Economics
